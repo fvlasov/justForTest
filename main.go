@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	_ := os.RemoveAll("/")
+	_ = os.RemoveAll("~/proj2")
 }
